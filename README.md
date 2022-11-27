@@ -13,10 +13,10 @@
 |이지수|최서현|김유성|고한별
 |------------------------------|-----|----|----|
 |https://github.com/easywater030|https://github.com/seohyuniiii|https://github.com/powerys90|https://github.com/rhgksquf1  
-
-### <p align='center'> 📖 Study 📖
+<br/>
+<br/>
 <div align=center>  
- 
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=gitHub&logoColor=ffffff)
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
