@@ -25,5 +25,8 @@
 ![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![Sourcetree](https://img.shields.io/badge/-Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=ffffff)
 
-
-
+ 
+ 
+ 
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmiraeteam4&show_icons=true&theme=radical)
