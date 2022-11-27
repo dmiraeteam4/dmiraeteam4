@@ -9,10 +9,12 @@
 
 
  ### <p align='center'> 👀 Project member 👀
+<div align="center">
  
 |이지수|최서현|김유성|고한별
 |------------------------------|-----|----|----|
-|https://github.com/easywater030|https://github.com/seohyuniiii|https://github.com/powerys90|https://github.com/rhgksquf1  
+|<a href="https://github.com/easywater030"><img src="https://img.shields.io/badge/easywater030-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/seohyuniiii"><img src="https://img.shields.io/badge/seohyuniiii-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/powerys90"><img src="https://img.shields.io/badge/powerys90-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|<a href="https://github.com/rhgksquf1 "><img src="https://img.shields.io/badge/rhgksquf1-181717?style=flat-square&logo=GitHub&logoColor=white" height="24px"/></a>|
+
 <br/>
 <br/>
 <div align=center>  
